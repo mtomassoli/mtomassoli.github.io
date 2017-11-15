@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       Simple Machine Learning
+email:       kiuhnm03@yahoo.it
+author:      Massimiliano Tomassoli
+description: "Blog about simplifying ML through understanding"
+baseurl:     ""     # the subpath of your site, e.g. /blog
+url:         "https://mtomassoli.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -14,7 +14,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-109745501-1
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -38,7 +38,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: ml-blog-1
 
 # txtpen post comments
 # (leave blank to disable txtpen)
