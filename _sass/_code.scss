@@ -7,7 +7,14 @@ pre code {
 pre,
 code {
   font-family: $monospace-font-family;
+  font-size: 0.89rem;
 }
+
+figure.highlight {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 
 code {
   color: #7a7a7a;
@@ -22,7 +29,7 @@ pre {
 }
 
 .highlight .p {
-  font-size: 1.125rem;
+  font-size: 1.00125rem;     /* 1.125 * code_fsize */
   line-height: 1;
 }
 

@@ -1,87 +1,18 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+My name is Massimiliano Tomassoli. I'm more of a computer scientist than a statistician. I did *reverse engineering* and *exploit development* for many years, but I've recently become interested in *Artificial Intelligence*.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+My main interest lies in *Reinforcement Learning* (*RL*) and *Simulation Optimization* or *Stochastic Optimization* or whatever you want to call it.
 
-Thanks to the following:
+When I first started learning *Machine Learning*, I didn't like it because I thought the field was just a collection of methods one had to choose from. Then I discovered *Model-based ML* (AKA *Probabilistic Graphical Models*) and, finally, *Deep Learning* which, to me, is just *Differentiable ML*.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Maybe surprisingly, it's my interest in RL which led me to learn more about *Variational Inference* and the general idea of *Stochastic Optimization*.
 
-List of contributors:
+## RL Group ([join!](https://discord.gg/ydeA9Uf))
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+I created a ***discussion group*** about RL on *Discord*. We also talk about other related topics such as *Variational Inference* and *Stochastic Optimization*. If you're interested, please join the group. You don't have to register if you want to just take a look. Just click [here](https://discord.gg/ydeA9Uf), choose a name and you're ready to go.
